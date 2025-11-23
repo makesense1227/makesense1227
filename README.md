@@ -3,10 +3,11 @@
 ###### 경희대학교 컴퓨터공학부 인공지능학과 24학번
 ###### 2025 경희대학교 컴퓨터공학부 학술동아리 다솜 교육부장
 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:makesense1227@khu.ac.kr) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:makesense1227@khu.ac.kr)
 
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
+![sklearn]()
 
 <!--
 - 🔭 I’m currently working on ...
