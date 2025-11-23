@@ -1,10 +1,9 @@
 ## Hi there 👋
 
+- 경희대학교 컴퓨터공학부 인공지능학과 24학번
+- 2025 경희대학교 컴퓨터공학부 학술동아리 다솜 교육부장
+
 <!--
-**makesense1227/makesense1227** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
